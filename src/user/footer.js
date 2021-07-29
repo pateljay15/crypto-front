@@ -9,7 +9,10 @@ const Footer = () => {
                 <div className="left_footer">
                     <div className="footer_info">
                         <div className="footer_head">Crypto Tracker</div><br /><br />
-                        <div className="footer_about"> We are leading company in crypto market.We have helped many organisation in the sector of investing.We are helping many people to invest in crypto at ease.</div><br /><br />
+                        <div className="footer_about"> We are leading company in crypto market.We have helped many organisation in the sector of investing.We are helping many people to invest in crypto at ease.
+                        </div><br /><br/>
+                            <a className="footer_about"  href="https://nomics.com">Crypto Market Cap & Pricing Data Provided By Nomics</a>
+                        <br /><br/>
                         <div className="social_media">
                             <i className='fab fa-facebook-f'><Link to="https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"></Link></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <i className='fab fa-instagram'><Link to="https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"></Link></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -2,10 +2,10 @@
 
 # dependencies
 /node_modules
-/.firebase
-/build
-/.firebaserc
-/firebase.json
+# /.firebase
+# /build
+# /.firebaserc
+# /firebase.json
 # testing
 /coverage
 
